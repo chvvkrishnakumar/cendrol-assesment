@@ -29,7 +29,7 @@ function Home() {
       <button className="color" onClick={onChangeColor} type="button">
         Change Color
       </button>
-      <button className="color" type="button" onClick={onReset}>
+      <button className="reset" type="button" onClick={onReset}>
         Reset Count
       </button>
     </div>
