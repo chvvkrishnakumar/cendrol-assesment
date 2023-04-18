@@ -1,7 +1,7 @@
 {
   "name": "cendrol-assesment",
   "private": true,
-  "homepage": "https://github.com/chvvkrishnakumar/cendrol-assesment.git",
+  "homepage": "http://chvvkrishnakumar.github.io/cendrol-assesment",
   "version": "1.0.0",
   "engines": {
     "node": "^10.13 || 12 || 14 || 15",
