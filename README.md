@@ -9,3 +9,5 @@ This is a simple counter application with two components 1.Home 2.Counter
             > When Change color button clicked the background-color will be updated accordingly.
         c. Reset Button:-
             > The count will be reset to "0"
+            
+    project linl:  http://chvvkrishnakumar.github.io/cendrol-assesment
